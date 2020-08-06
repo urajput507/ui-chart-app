@@ -1,13 +1,17 @@
 import React from 'react';
-import Paper from './paper';
-import Piechart from './piechart';
-function App() {  
+// import Paper from './paper';
+// import Piechart from './piechart';
+import Menu from './menu';
+import Divider from './divider';
+// import Grid from './grid';
+
+function App() {
   return (
-  <div>
-  <Paper />
-  <Piechart />
-  </div>
-  
+    <div>
+      <Menu />
+      <Divider />
+    </div>
+
   );
 }
 
