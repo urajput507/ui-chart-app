@@ -47,7 +47,7 @@ export default function InsetDividers() {
             <BeachAccessIcon />
           </Avatar>
         </ListItemAvatar>
-        <ListItemText primary="Vacation" secondary="July 20, 2014" />
+        <ListItemText primary="Noodles Sauces & Frozen Foods" secondary="July 20, 2014" />
       </ListItem>
     </List>
   );
