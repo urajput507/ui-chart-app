@@ -2,14 +2,16 @@ import React from 'react';
 // import Paper from './paper';
 // import Piechart from './piechart';
 import Menu from './menu';
-import Divider from './divider';
+// import Divider from './divider';
+import Table from './table';
 // import Grid from './grid';
 
 function App() {
   return (
     <div>
-      <Menu />
-      <Divider />
+      <Menu />      
+      <Table />
+      {/* <Divider/> */}
     </div>
 
   );
