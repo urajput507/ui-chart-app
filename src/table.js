@@ -31,7 +31,7 @@ function createData(name, calories, fat, carbs, protein) {
 }
 
 const rows = [
-  createData('Pepsi 1 ltr', 8, 80, 'In Stock','G'),
+  createData('Pepsi 1 ltr', 9 , 80, 'In Stock','G'),
   createData('LU Gala Half Roll', 23, 20, 'In Stock','G'),
   createData('Eva Cocking Oil', 26, 260, 'In Stock', 'G'),
   createData('Rice Super Karnal', 3, 180, 'In Stock', 'G'),
