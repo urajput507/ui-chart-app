@@ -36,7 +36,8 @@ const rows = [
   createData('Eva Cocking Oil', 26, 260, 'In Stock', 'G'),
   createData('Rice Super Karnal', 3, 180, 'In Stock', 'G'),
   createData('Sugar per Kg', 6, 100, 'out of Stock', '1st'),
-//   createData('abc', 8, 100, 'in Stock', '1st'),
+  createData('abc', 8, 100, 'in Stock', '1st'),
+  
   
 ];
 
