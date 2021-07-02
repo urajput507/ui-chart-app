@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import logo from './logo.svg';
 import './App.css';
 import Axios from 'axios';
 class App extends Component{
@@ -24,6 +25,7 @@ render()
 {
 return(
 <div className="App-header">
+  <h1>TheQRMart</h1>
 <br/>
 <button
     type="button" className="btn btn-success"
