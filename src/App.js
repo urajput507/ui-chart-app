@@ -1,4 +1,4 @@
-// import React, { Component } from 'react';
+import React, { Component } from 'react';
 import './App.css';
 import Axios from 'axios';
 class App extends Component{
