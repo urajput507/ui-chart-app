@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import logo from './logo.svg';
 import './App.css';
 import Axios from 'axios';
 class App extends Component{
